@@ -1,1 +1,1 @@
-# favourate-emoji-project
+# my_emojis
